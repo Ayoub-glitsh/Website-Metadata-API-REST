@@ -290,19 +290,3 @@ This project is licensed under the **ISC License**.
 
 * * *
 
-### ⭐ If you like this project, give it a star on GitHub!
-
-* * *
-
-Si tu veux, je peux maintenant :
-
-*   ✨ personnaliser la doc avec **ton nom**
-    
-*   💰 ajouter une section **Monetization**
-    
-*   🚀 préparer une **Release v1.0.0**
-    
-*   🧾 t’aider à publier sur **RapidAPI**
-    
-
-Dis-moi la suite 👌
