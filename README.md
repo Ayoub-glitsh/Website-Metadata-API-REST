@@ -170,7 +170,7 @@ Website URL to analyze
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/helmet" width="18" /> 
+        <img src="img/images.svg" width="20" /> 
         <strong>Helmet</strong>
       </td>
       <td>Security headers</td>
