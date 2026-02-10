@@ -170,7 +170,7 @@ Website URL to analyze
     </tr>
     <tr>
       <td>
-        <img src="img/images.svg" width="20" /> 
+        <img src="img/helmet.png" width="20" /> 
         <strong>Helmet</strong>
       </td>
       <td>Security headers</td>
