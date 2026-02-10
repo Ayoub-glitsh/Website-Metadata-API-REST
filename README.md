@@ -177,7 +177,7 @@ Website URL to analyze
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/morgan" width="20" /> 
+        <img src="img/1212.svg" width="20" /> 
         <strong>Morgan</strong>
       </td>
       <td>Logging</td>
