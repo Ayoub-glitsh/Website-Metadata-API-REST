@@ -203,7 +203,7 @@ Website URL to analyze
 
 ### 1️⃣ Clone the repository
 
-    git clone https://github.com/YOUR_USERNAME/website-metadata-api-rest.git
+    git clone https://github.com/Ayoub-glitsh/website-metadata-api-rest.git
     cd website-metadata-api-rest
     
 
