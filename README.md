@@ -136,40 +136,20 @@ Website URL to analyze
 
 * * *
 
-⚙️ Tech Stack
--------------
+## ⚙️ Tech Stack
 
-Technology
+| Technology | Role |
+|---|---|
+| <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> Node.js | Runtime |
+| <img src="https://cdn.simpleicons.org/express" width="18" /> Express | REST API framework |
+| <img src="https://cdn.simpleicons.org/cheerio" width="18" /> Cheerio | HTML parsing |
+| <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> node-fetch | HTTP requests |
+| <img src="https://cdn.simpleicons.org/helmet" width="18" /> Helmet | Security headers |
+| <img src="https://cdn.simpleicons.org/morgan" width="18" /> Morgan | Logging |
+| <img src="https://cdn.simpleicons.org/fastapi" width="18" /> express-rate-limit | Rate limiting |
 
-Role
 
-**Node.js**
 
-Runtime
-
-**Express**
-
-REST API framework
-
-**Cheerio**
-
-HTML parsing
-
-**node-fetch**
-
-HTTP requests
-
-**Helmet**
-
-Security headers
-
-**Morgan**
-
-Logging
-
-**express-rate-limit**
-
-Rate limiting
 
 * * *
 
