@@ -96,23 +96,12 @@ graph LR
     GET /metadata?url=https://example.com
     
 
-#### Query Parameters
+### Query Parameters
 
-Parameter
+| Parameter | Type   | Required | Description                     |
+|----------|--------|----------|---------------------------------|
+| url      | string | Yes      | The website URL to analyze      |
 
-Type
-
-Required
-
-Description
-
-`url`
-
-string
-
-✅
-
-Website URL to analyze
 
 * * *
 
