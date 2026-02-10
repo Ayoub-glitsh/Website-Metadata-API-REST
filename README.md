@@ -1,18 +1,12 @@
-Parfait 👍  
-Voici une **documentation stylée, moderne et professionnelle**, prête à être copiée dans ton **`README.md`**.  
-Elle est optimisée pour **GitHub**, lisible, et donne une **bonne image pro** de ton API.
 
-* * *
+
 
 🌐 Website Metadata API REST
 ============================
 
 **A fast, lightweight REST API to extract essential metadata from any public website**
 
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)  
-![Express](https://img.shields.io/badge/Express-REST-blue)  
-![License](https://img.shields.io/badge/License-ISC-lightgrey)  
-![Status](https://img.shields.io/badge/Status-v1.0.0-success)
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)  ![Express](https://img.shields.io/badge/Express-REST-blue)  ![License](https://img.shields.io/badge/License-ISC-lightgrey) ![Status](https://img.shields.io/badge/Status-v1.0.0-success)
 
 * * *
 
