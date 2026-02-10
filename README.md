@@ -142,28 +142,28 @@ Website URL to analyze
   <tbody>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> 
+        <img src="https://cdn.simpleicons.org/nodedotjs" width="20" /> 
         <strong>Node.js</strong>
       </td>
       <td>Runtime</td>
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/express" width="18" /> 
+        <img src="https://cdn.simpleicons.org/express" width="20" /> 
         <strong>Express</strong>
       </td>
       <td>REST API framework</td>
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/cheerio" width="18" /> 
+        <img src="https://cdn.simpleicons.org/cheerio" width="20" /> 
         <strong>Cheerio</strong>
       </td>
       <td>HTML parsing</td>
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> 
+        <img src="https://cdn.simpleicons.org/nodedotjs" width="20" /> 
         <strong>node-fetch</strong>
       </td>
       <td>HTTP requests</td>
@@ -177,14 +177,14 @@ Website URL to analyze
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/morgan" width="18" /> 
+        <img src="https://cdn.simpleicons.org/morgan" width="20" /> 
         <strong>Morgan</strong>
       </td>
       <td>Logging</td>
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/fastapi" width="18" /> 
+        <img src="https://cdn.simpleicons.org/fastapi" width="20" /> 
         <strong>express-rate-limit</strong>
       </td>
       <td>Rate limiting</td>
