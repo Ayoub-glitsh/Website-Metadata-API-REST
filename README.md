@@ -200,7 +200,7 @@ graph LR
     </tr>
     <tr>
       <td>
-        <img src="img/1212.svg" width="20" /> 
+        <img src="https://www.flaticon.com/fr/icones-gratuites/m" width="20" /> 
         <strong>Morgan</strong>
       </td>
       <td>Logging</td>
