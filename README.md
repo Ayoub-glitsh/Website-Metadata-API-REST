@@ -47,13 +47,32 @@ This API is ideal for **SEO tools**, **link previews**, **dashboards**, and **au
 🧠 How It Works
 ---------------
 
-    flowchart LR
-        A[Client] --> B[REST API]
-        B --> C[Fetch HTML]
-        C --> D[Parse with Cheerio]
-        D --> E[Extract Metadata]
-        E --> F[JSON Response]
+
     
+
+  
+
+```mermaid
+
+graph LR
+    A[Client] --> B[REST API]
+    B --> C[Fetch HTML]
+    C --> D[Parse with Cheerio]
+    D --> E[Extract Metadata]
+    E --> F[JSON Response]
+
+    style A fill:#f5f5f5,stroke:#333,stroke-width:1px
+    style B fill:#f5f5f5,stroke:#333,stroke-width:1px
+    style C fill:#f5f5f5,stroke:#333,stroke-width:1px
+    style D fill:#f5f5f5,stroke:#333,stroke-width:1px
+    style E fill:#f5f5f5,stroke:#333,stroke-width:1px
+    style F fill:#f5f5f5,stroke:#333,stroke-width:1px
+
+
+```
+
+  
+
 
 * * *
 
