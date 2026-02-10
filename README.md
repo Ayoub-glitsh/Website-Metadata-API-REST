@@ -130,11 +130,11 @@ graph LR
     
 *   Protects the API from abuse
     
-
+```
     Client → Rate Limiter → API
             ├─ Allowed → 200 OK
             └─ Blocked → 429 Too Many Requests
-    
+```
 
 * * *
 
