@@ -136,17 +136,68 @@ Website URL to analyze
 
 * * *
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
-| Technology | Role |
-|---|---|
-| <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> Node.js | Runtime |
-| <img src="https://cdn.simpleicons.org/express" width="18" /> Express | REST API framework |
-| <img src="https://cdn.simpleicons.org/cheerio" width="18" /> Cheerio | HTML parsing |
-| <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> node-fetch | HTTP requests |
-| <img src="https://cdn.simpleicons.org/helmet" width="18" /> Helmet | Security headers |
-| <img src="https://cdn.simpleicons.org/morgan" width="18" /> Morgan | Logging |
-| <img src="https://cdn.simpleicons.org/fastapi" width="18" /> express-rate-limit | Rate limiting |
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">Technology</th>
+      <th align="left">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> 
+        <strong>Node.js</strong>
+      </td>
+      <td>Runtime</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.simpleicons.org/express" width="18" /> 
+        <strong>Express</strong>
+      </td>
+      <td>REST API framework</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.simpleicons.org/cheerio" width="18" /> 
+        <strong>Cheerio</strong>
+      </td>
+      <td>HTML parsing</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.simpleicons.org/nodedotjs" width="18" /> 
+        <strong>node-fetch</strong>
+      </td>
+      <td>HTTP requests</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.simpleicons.org/helmet" width="18" /> 
+        <strong>Helmet</strong>
+      </td>
+      <td>Security headers</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.simpleicons.org/morgan" width="18" /> 
+        <strong>Morgan</strong>
+      </td>
+      <td>Logging</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.simpleicons.org/fastapi" width="18" /> 
+        <strong>express-rate-limit</strong>
+      </td>
+      <td>Rate limiting</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
