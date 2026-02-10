@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="img/youtube_01" width="600" />
+  <img src="img/youtube_01.png" width="600" />
 </p>
 
 
