@@ -1,1 +1,264 @@
-this is nothing
+Parfait 👍  
+Voici une **documentation stylée, moderne et professionnelle**, prête à être copiée dans ton **`README.md`**.  
+Elle est optimisée pour **GitHub**, lisible, et donne une **bonne image pro** de ton API.
+
+* * *
+
+🌐 Website Metadata API REST
+============================
+
+**A fast, lightweight REST API to extract essential metadata from any public website**
+
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)  
+![Express](https://img.shields.io/badge/Express-REST-blue)  
+![License](https://img.shields.io/badge/License-ISC-lightgrey)  
+![Status](https://img.shields.io/badge/Status-v1.0.0-success)
+
+* * *
+
+✨ Overview
+----------
+
+**Website Metadata API REST** is a simple and efficient RESTful API built with **Node.js** and **Express**.  
+It allows developers to extract useful metadata from any public website using a single HTTP request.
+
+This API is ideal for **SEO tools**, **link previews**, **dashboards**, and **automation workflows**.
+
+* * *
+
+🚀 Features
+-----------
+
+✅ Extract website metadata  
+✅ Clean JSON responses  
+✅ URL validation  
+✅ Rate limiting (anti-abuse)  
+✅ Lightweight & easy to extend
+
+### Extracted data
+
+*   🏷️ Page title
+    
+*   📝 Meta description
+    
+*   🌐 Language
+    
+*   🖼️ Open Graph image (`og:image`)
+    
+*   ⭐ Favicon
+    
+
+* * *
+
+🧠 How It Works
+---------------
+
+    flowchart LR
+        A[Client] --> B[REST API]
+        B --> C[Fetch HTML]
+        C --> D[Parse with Cheerio]
+        D --> E[Extract Metadata]
+        E --> F[JSON Response]
+    
+
+* * *
+
+📡 API Endpoints
+----------------
+
+### 🟢 Health Check
+
+    GET /health
+    
+
+    {
+      "ok": true
+    }
+    
+
+* * *
+
+### 🔍 Metadata Extraction
+
+    GET /metadata?url=https://example.com
+    
+
+#### Query Parameters
+
+Parameter
+
+Type
+
+Required
+
+Description
+
+`url`
+
+string
+
+✅
+
+Website URL to analyze
+
+* * *
+
+📦 Example Response
+-------------------
+
+    {
+      "url": "https://example.com",
+      "status": 200,
+      "title": "Example Domain",
+      "description": null,
+      "language": "en",
+      "ogImage": null,
+      "favicon": null
+    }
+    
+
+* * *
+
+🛡️ Security & Limits
+---------------------
+
+### 🔒 Rate Limiting
+
+*   **60 requests per minute per IP**
+    
+*   Protects the API from abuse
+    
+
+    Client → Rate Limiter → API
+            ├─ Allowed → 200 OK
+            └─ Blocked → 429 Too Many Requests
+    
+
+* * *
+
+⚙️ Tech Stack
+-------------
+
+Technology
+
+Role
+
+**Node.js**
+
+Runtime
+
+**Express**
+
+REST API framework
+
+**Cheerio**
+
+HTML parsing
+
+**node-fetch**
+
+HTTP requests
+
+**Helmet**
+
+Security headers
+
+**Morgan**
+
+Logging
+
+**express-rate-limit**
+
+Rate limiting
+
+* * *
+
+🛠️ Installation
+----------------
+
+### 1️⃣ Clone the repository
+
+    git clone https://github.com/YOUR_USERNAME/website-metadata-api-rest.git
+    cd website-metadata-api-rest
+    
+
+### 2️⃣ Install dependencies
+
+    npm install
+    
+
+### 3️⃣ Start the server
+
+    npm start
+    
+
+📍 Server runs on:
+
+    http://localhost:3000
+    
+
+* * *
+
+🧪 Quick Test
+-------------
+
+    curl "http://localhost:3000/metadata?url=https://example.com"
+    
+
+* * *
+
+💡 Use Cases
+------------
+
+*   🔎 SEO analysis tools
+    
+*   🔗 Link preview generation
+    
+*   📊 Dashboards & analytics
+    
+*   🧩 CMS integrations
+    
+*   🤖 Automation & scraping pipelines
+    
+
+* * *
+
+🗺️ Roadmap
+-----------
+
+*    API key authentication
+    
+*    Free / Pro usage quotas
+    
+*    Response caching
+    
+*    `/company` enrichment endpoint
+    
+*    Monetization & API marketplace release
+    
+
+* * *
+
+📄 License
+----------
+
+This project is licensed under the **ISC License**.
+
+* * *
+
+### ⭐ If you like this project, give it a star on GitHub!
+
+* * *
+
+Si tu veux, je peux maintenant :
+
+*   ✨ personnaliser la doc avec **ton nom**
+    
+*   💰 ajouter une section **Monetization**
+    
+*   🚀 préparer une **Release v1.0.0**
+    
+*   🧾 t’aider à publier sur **RapidAPI**
+    
+
+Dis-moi la suite 👌
